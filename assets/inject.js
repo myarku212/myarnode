@@ -79,14 +79,4 @@ dataLazy.forEach(function(a){
     };
   };
 });
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2830567084846137"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-2830567084846137"
-     data-ad-slot="9489725050"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+(function(){injectScript([{"attr":[{"name":"async","value":""},{"name":"src","value":"https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2830567084846137"},{"name":"crossorigin","value":"anonymous"}],"tag":"script","inner":""},{"attr":[{"name":"class","value":"adsbygoogle"},{"name":"style","value":"display:block; text-align:center;"},{"name":"data-ad-layout","value":"in-article"},{"name":"data-ad-format","value":"fluid"},{"name":"data-ad-client","value":"ca-pub-2830567084846137"},{"name":"data-ad-slot","value":"9489725050"}],"tag":"ins","inner":""},{"attr":[],"tag":"script","inner":"\n     (adsbygoogle = window.adsbygoogle || []).push({});\n"}],{"target":"body"});function injectScript(e,t){let n=t.target;for(let t of e){let e=t.tag,r=t.inner,o=document.createElement(e);o.innerHTML=r;let c=t.attr;for(let e of c)o.setAttribute(e.name,e.value);document.querySelector(n)&&document.querySelector(n).append(o)}}})();
