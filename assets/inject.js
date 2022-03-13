@@ -79,3 +79,13 @@ dataLazy.forEach(function(a){
     };
   };
 });
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2830567084846137"
+     crossorigin="anonymous"></script>
+<!-- myar320x100 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:320px;height:100px"
+     data-ad-client="ca-pub-2830567084846137"
+     data-ad-slot="6056124208"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
