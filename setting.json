@@ -2,7 +2,7 @@
   "name-web":"STACKOVERFLOW MASKODING",
   "author":"MASKODING",
   "remove-comment-html":true,
-  "target":"https://m.tribunnews.com",
+  "target":"https://www.suara.com",
   "name-folder-sitemap":"sitemap",
   "element-remove":[
     "script",
@@ -20,7 +20,7 @@
   ],
   "costom-element-remove":[
     {
-      "target":"m.tribunnews.com",
+      "target":"suara.com",
       "element-remove-selector":[
         ".baca",
         ".op-interactive",
